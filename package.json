@@ -1,0 +1,16 @@
+{
+	"name": "meal_app",
+	"version": "1.0.0",
+	"description": "",
+	"main": "app.js",
+	"type": "module",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"server": "node ./node_modules/.bin/live-server src"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"live-server": "^1.2.2"
+	}
+}
