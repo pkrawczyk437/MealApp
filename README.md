@@ -8,7 +8,7 @@ Meal app in which you can generate 1 random meal with detailed ingredients, meas
 
 ## Used packages
 
-[live-server](https://github.com/typicode/json-server)
+[live-server](https://github.com/tapio/live-server)
 
 ## Installation
 
